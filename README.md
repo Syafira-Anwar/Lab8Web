@@ -1,4 +1,4 @@
-Lab 8 - Pemrograman Web: Aplikasi CRUD Data Barang (PHP & MySQL)
+//Lab 8 - Pemrograman Web: Aplikasi CRUD Data Barang (PHP & MySQL)//
 
 Proyek ini merupakan tugas praktikum modul Lab 8 Pemrograman Web (OBE) yang mengimplementasikan manajemen data barang secara dinamis (Create, Read, Update, Delete) menggunakan PHP Native dan database MySQL / MariaDB, dilengkapi fitur unggah berkas gambar (file upload).
 
